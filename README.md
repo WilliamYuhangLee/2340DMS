@@ -21,11 +21,11 @@ Please read [CONTRIBUTING.md](https://gist.github.com/WilliamYuhangLee/???) for 
 ## Authors
 
 Members of OGBK ordered alphabetically:
-* **I-Ping Huang** - *Fill in Role Here* - [USERNAME HERE](https://github.com/???)
-* **Qiusen Huang** - *Fill in Role Here* - [USERNAME HERE](https://github.com/???)
+* **I-Ping Huang** - *Fill in Role Here* - [SamSnowKitten](https://github.com/SamSnowKitten)
+* **Qiusen Huang** - *Fill in Role Here* - [QiusenHuangGT21](https://github.com/QiusenHuangGT21)
 * **Yuhang Li** - *Organization* - [WilliamYuhangLee](https://github.com/WilliamYuhangLee)
-* **Vincent Lieng** - *Fill in Role Here* - [USERNAME HERE](https://github.com/???)
-* **Songming Liu** - *Fill in Role Here* - [ManUnited-reddevils](https://github.com/???)
+* **Vincent Lieng** - *CEO boss* - [vlieng](https://github.com/vlieng3)
+* **Songming Liu** - *Fill in Role Here* - [ManUnited-reddevils](https://github.com/ManUnited-reddevils)
 
 See also the list of [contributors](https://github.com/WilliamYuhangLee/2340DMS/graphs/contributors) who participated in this project.
 
