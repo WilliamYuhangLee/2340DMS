@@ -25,7 +25,7 @@ Members of OGBK ordered alphabetically:
 * **Qiusen Huang** - *Fill in Role Here* - [USERNAME HERE](https://github.com/???)
 * **Yuhang Li** - *Organization* - [WilliamYuhangLee](https://github.com/WilliamYuhangLee)
 * **Vincent Lieng** - *Fill in Role Here* - [USERNAME HERE](https://github.com/???)
-* **Songming Liu** - *Fill in Role Here* - [USERNAME HERE](https://github.com/???)
+* **Songming Liu** - *Fill in Role Here* - [ManUnited-reddevils](https://github.com/???)
 
 See also the list of [contributors](https://github.com/WilliamYuhangLee/2340DMS/graphs/contributors) who participated in this project.
 
